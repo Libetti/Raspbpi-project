@@ -1,13 +1,3 @@
-/*
-Name= Anthony Libetti
-Date= 4/23/2019
-File= Main.c
-Description= A simple binary clock that displays the current est
-	     time. Hours are represented in blue, minutes in green and
-             seconds in red. Each lit-up pixel represents a 1, those 
-             which are not lit represent 0.
-
-*/
 #include "framebuffer.h"
 
 void num2bin(int tme,int row, uint16_t color);
