@@ -1,5 +1,5 @@
 # Raspbpi-project
-Various simple applications to be used with a RaspberryPi and appropriate sense HAT.
+Various simple applications to be used with a RaspberryPi and Sense HAT.
 
 # Etch-A-Sketch
 A traditional Etch-A-Sketch that takes in user input from the joystick and lights up pixels accordingly
