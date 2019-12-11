@@ -9,3 +9,6 @@ The accelerometer detects great changes in motion to clear the bitmap, like shak
 # Binary Clock
 A binary clock that represents hours, minutes, and seconds shown through lit and unlit pixels on the sense HAT.
 The time shown refers to your OS system timezone. 
+
+## Terms of Use
+The sensor libraries are a necessary component for these projects to work, unforutunately they are also proprietary. Contact me at libetti@udel.edu if you would like to request them.
